@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns0:a xmlns:ns0="sample.com/x">
-    <ns0:b>Hello World!</ns0:b>
+    <ns0:b attribut="foo">Hello World!</ns0:b>
 </ns0:a>
